@@ -5,7 +5,7 @@
   "test_amd64": true,
   "test_arm64": false,
   "test_url": "http://localhost:8787/system/status",
-  "upstream_digest_amd64": "sha256:644e302a977c7db10d8ce6beb6863e87f694c39529a5eaebe06eeb8897ebfb9e",
+  "upstream_digest_amd64": "sha256:299610ce168561478e3a3604b5b09f97a0bdd08f15692512e6d1d687bb7c7d9e",
   "upstream_digest_arm64": "",
   "upstream_image": "docker.io/tainrs/base",
   "upstream_tag": "alpine",
