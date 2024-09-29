@@ -10,5 +10,17 @@
       "develop-0.3.32.2587",
       "develop-fcb0235"
     ]
+  },
+  "update-versions-develop": {
+    "description": "develop",
+    "hide": false,
+    "last_updated": "2024-09-29T06:19:43.000Z",
+    "last_updated_url": "https://github.com/tainrs/readarr/actions/runs/11090318611",
+    "latest": false,
+    "tags": [
+      "update-versions-develop",
+      "update-versions-develop-0.4.0.2634",
+      "update-versions-develop-a69e4f0"
+    ]
   }
 }
