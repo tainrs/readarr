@@ -14,13 +14,13 @@
   "update-versions-develop": {
     "description": "develop",
     "hide": false,
-    "last_updated": "2024-10-20T06:20:26.000Z",
-    "last_updated_url": "https://github.com/tainrs/readarr/actions/runs/11424042239",
+    "last_updated": "2024-10-27T12:25:47.000Z",
+    "last_updated_url": "https://github.com/tainrs/readarr/actions/runs/11540441056",
     "latest": false,
     "tags": [
       "update-versions-develop",
-      "update-versions-develop-0.4.1.2648",
-      "update-versions-develop-a95b830"
+      "update-versions-develop-0.4.2.2653",
+      "update-versions-develop-ca4928d"
     ]
   }
 }
