@@ -8,5 +8,7 @@ on:
 
 jobs:
   call:
+    # Prevent execution on main branch for both push and manual triggers
+    if: github.ref != 'refs/heads/main'
     uses: tainrs/build-workflows/.github/workflows/build-on-call.yml@main
     secrets: inherit
