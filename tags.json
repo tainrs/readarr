@@ -2,13 +2,13 @@
   "develop": {
     "description": "develop",
     "hide": false,
-    "last_updated": "2026-01-03T10:12:18.000Z",
-    "last_updated_url": "https://github.com/tainrs/readarr/actions/runs/20675841434",
+    "last_updated": "2026-01-03T11:18:05.000Z",
+    "last_updated_url": "https://github.com/tainrs/readarr/actions/runs/20676523450",
     "latest": false,
     "tags": [
       "develop",
       "develop-0.3.32.2587",
-      "develop-e6150ef"
+      "develop-ec04a4a"
     ]
   },
   "update-versions-develop": {
